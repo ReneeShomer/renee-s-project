@@ -1,0 +1,25 @@
+#firstparagraph {
+  background-color: blue;                                    
+}
+span{
+    font-family: 'Barrio', cursive;
+}
+img{
+    width: 300px;
+  height: 300px;
+  display: inline-block;
+    
+}
+#secondparagraph{
+    font-size: 50px;
+}
+
+#firstparagraph{
+    font-size: 24px; }
+    
+
+#thirdparagraph { 
+    font size:24px;
+        
+}
+    

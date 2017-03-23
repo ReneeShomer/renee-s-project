@@ -1,0 +1,23 @@
+#secondparagraph{
+    font-size:24px;
+}
+
+#firstparagraph{
+   font-size:52px;
+}
+img{ 
+    width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+body{
+    background-color:lightblue;
+}
+
+#firstparagraph{
+color: green;
+}
+
+#secondparagraph{
+    color: green;
+}
