@@ -1,8 +1,7 @@
-#firstparagraph {
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+img{
   background-color: blue;                                    
-}
-span{
-    font-family: 'Barrio', cursive;
+
 }
 img{
     width: 300px;
@@ -15,11 +14,16 @@ img{
 }
 
 #firstparagraph{
-    font-size: 24px; }
+    font-size: 24px; 
+}
     
 
 #thirdparagraph { 
-    font size:24px;
-        
+    font-size:24px;
+}      
+.paragraphonetwo{
+    background-color: blue;
 }
-    
+#firstparagraph{
+    font-family: 'Barrio', cursive;
+}

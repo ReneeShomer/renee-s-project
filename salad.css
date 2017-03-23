@@ -1,13 +1,17 @@
-img{
+{
     width: 200px;
   height: 200px;
   display: inline-block;
 }
 
 body{
-    background-color: gray;
+    background-color: blue;
 }
 
-#firstparagraph{
-    font-size: 24px;
+#secondparagraph {
+    font-size: 50px;
+}
+
+#thirdparagraph{
+    font-size: 50px;
 }
